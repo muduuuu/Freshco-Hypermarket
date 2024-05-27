@@ -37,8 +37,14 @@ Delivery Analysis :
 19.    Calculate average overall delivery time at slot level. Refer to the definition of slot.</br>
 20.    Do you see any pattern in delivery charges with slot or delivery area.</br>
 21.    Do you see any pattern in delivery time and delivery area. If yes then find out logical reason.</br>
+
 ## Conclusion
 All of the findings and insights were made into a comprehensive report showcasing the measures which the hypermarket can include to improve their parameters.
+
+## Author
+Name: Mudassir Hayath
+Role: Analyst
+Email: mudassirhayath30@gmail.com
 
 ## Snippets
 ![image](https://github.com/muduuuu/Freshco-Hypermarket/assets/108679596/4e5b0f2f-dea9-428d-8cae-da3f153ae838)
