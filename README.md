@@ -1,5 +1,7 @@
 # Freshco-Hypermarket
 Freshco Hypermarket in HSR, Bangalore, introduced a home delivery service in 2021 to meet evolving customer needs. The project involved maintaining a comprehensive transaction data sheet at the order level to optimize operations and enhance customer satisfaction.
+## Process
+The obtained data was cleaned, organised and relevant information was extracted from the same to conduct further analysis.
 
 ## Dependencies
 MS Excel with its advanced features such as Pivot Tables, VBA, Conditional Formatting, Combinational Charts. </br>
