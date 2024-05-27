@@ -44,9 +44,9 @@ Delivery Analysis :
 All of the findings and insights were made into a comprehensive report showcasing the measures which the hypermarket can include to improve their parameters.
 
 ## Author
-Name: Mudassir Hayath
-Role: Analyst
-Email: mudassirhayath30@gmail.com
+Name: Mudassir Hayath</br>
+Role: Analyst</br>
+Email: mudassirhayath30@gmail.com</br>
 
 ## Snippets
 ![image](https://github.com/muduuuu/Freshco-Hypermarket/assets/108679596/4e5b0f2f-dea9-428d-8cae-da3f153ae838)
